@@ -1,0 +1,23 @@
+#block-2{
+    display: flex;
+    gap: 40px;
+    padding: 20px;
+    justify-content: space-between;
+}
+.news{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.news > img{
+    width: 20%;
+    height: 180px;
+}
+#sidebar > h3{
+    cursor: pointer;
+}
+#sidebar{
+    width: 20%;
+    border-right: 3px solid;
+}

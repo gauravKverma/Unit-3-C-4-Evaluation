@@ -1,0 +1,9 @@
+#detailed_news{
+    width: 70%;
+    margin: auto;
+    margin-top: 80px;
+    gap: 30px;
+}
+.news > img{
+    width: 100%;
+}

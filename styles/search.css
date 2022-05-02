@@ -1,0 +1,15 @@
+#results{
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
+.news{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.news > img{
+    width: 20%;
+    height: 180px;
+}
